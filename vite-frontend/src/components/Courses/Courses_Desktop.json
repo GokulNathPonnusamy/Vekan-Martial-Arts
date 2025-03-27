@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Karate",
+        "image": "/Courses/Karate.png",
+        "about_course": "Welcome to <strong>Vekan Martial Arts Sports Academy!</strong> Since 2013, our Government ITI classes in Thiruvannamalai, led by <strong>Renshi Veka Nagarajan</strong>, have thrived. As a Judge in the <strong>Asian Karate Federation and Chairman of the Referee Commission at TDSKA-Tiruvannamalai District Sports Karate-Do Association</strong>, he's elevated our program to an Indoor Academy. Inclusivity is key, with female coaches enhancing our diverse learning environment. Join us for a transformative martial arts experience!",
+        "isleft": true
+    },
+
+    {
+        "name": "Silambam",
+        "image": "/Courses/Silambam.png",
+        "about_course": "Welcome to Vekan Martial Arts Sports Academy! Established in 2013 at Government ITI in Tiruvannamalai, we proudly offer Silambam classes under the guidance of <strong>Silambam Aasaan Veka Nagarajan</strong>. He holds a <strong>prominent role as the Tamil Nadu Secretary of the Dhrona Traditional Silambam Sports Association</strong>. Affiliated with the Silambam Association of India, he has played a pivotal role in upgrading our sports program to an Indoor Academy. Join us for an enriching experience at Vekan Martial Arts Sports Academy!",
+        "isleft": false
+    },
+
+    {
+        "name": "Archery",
+        "image": "/Courses/Archery.png",
+        "about_course": "Welcome to Vekan Martial Arts Sports Academy! Since 2013, located at Government ITI in Tiruvannamalai, we take pride in offering archery classes under the guidance of Mr. Veka Nagarajan. <strong>As a distinguished member of the Royal Archery for All association in Tamil Nadu</strong>, he has been instrumental in upgrading our sports program to an Indoor Academy. Join us for an exceptional experience at Vekan Martial Arts Sports Academy!",
+        "isleft": true
+    },
+
+    {
+        "name": "Fitness",
+        "image": "/Courses/Fitness.png",
+        "about_course": "Welcome to Vekan Martial Arts Sports Academy! Commencing in September 2018 and instructed by Mr. Veka Nagarajan, our fitness classes cater to specific needs, <strong>with a focus on weight loss and workouts designed to alleviate symptoms of PCOD</strong>. Our upgraded sports program has transformed into an Indoor Academy, known as Vekan Martial Arts Academy. Emphasizing inclusivity, we are proud to <strong>have female coaches available</strong>.",
+        "isleft": false
+    },
+
+    {
+        "name": "Yoga",
+        "image": "/Courses/Yoga.png",
+        "about_course": "Welcome to Vekan Martial Arts Sports Academy! Established in September 2018 and led by Mr. Veka Nagarajan, our academy has evolved into an Indoor Academy, elevating sports education. <strong>Mr.Vega Nagarajan, an M.Sc. in Yoga from Annamalai University</strong>, draws inspiration from his <strong>training with Yogi Vasanth Kumar in Kerala</strong>. Our commitment to diversity is reflected in the availability of female coaches. Join us for a holistic and enriching experience at Vekan Martial Arts Sports Academy!",
+        "isleft": true
+    },
+
+    {
+        "name": "Kids & Women's Defence",
+        "image": "/Courses/Self Defence.png",
+        "about_course": "Welcome to Vekan Martial Arts Sports Academy! <strong>Operating since 2013 at Government ITI in Thiruvannamalai</strong>, our dedicated Sensai, <strong>Renshi Veka Nagarajan, specializes in teaching self-defense for women and kids</strong>. With a background as a judge in the <strong>Asian Karate Federation and Referee Commission Chairman at TDSKA-Tiruvannamalai District Sports Karate-Do Association</strong>, he has transformed our sports program into an Indoor Academy. Proudly named Vekan Martial Arts Academy, we prioritize inclusivity with the presence of female coaches. Join us for a comprehensive and empowering martial arts experience!",
+        "isleft": false
+    }
+]
